@@ -1,0 +1,14 @@
+C:\c# Programs\Practical3\bin\Debug\net10.0\Practical3.exe
+C:\c# Programs\Practical3\bin\Debug\net10.0\Practical3.deps.json
+C:\c# Programs\Practical3\bin\Debug\net10.0\Practical3.runtimeconfig.json
+C:\c# Programs\Practical3\bin\Debug\net10.0\Practical3.dll
+C:\c# Programs\Practical3\bin\Debug\net10.0\Practical3.pdb
+C:\c# Programs\Practical3\obj\Debug\net10.0\Practical3.GeneratedMSBuildEditorConfig.editorconfig
+C:\c# Programs\Practical3\obj\Debug\net10.0\Practical3.AssemblyInfoInputs.cache
+C:\c# Programs\Practical3\obj\Debug\net10.0\Practical3.AssemblyInfo.cs
+C:\c# Programs\Practical3\obj\Debug\net10.0\Practical3.csproj.CoreCompileInputs.cache
+C:\c# Programs\Practical3\obj\Debug\net10.0\Practical3.dll
+C:\c# Programs\Practical3\obj\Debug\net10.0\refint\Practical3.dll
+C:\c# Programs\Practical3\obj\Debug\net10.0\Practical3.pdb
+C:\c# Programs\Practical3\obj\Debug\net10.0\Practical3.genruntimeconfig.cache
+C:\c# Programs\Practical3\obj\Debug\net10.0\ref\Practical3.dll

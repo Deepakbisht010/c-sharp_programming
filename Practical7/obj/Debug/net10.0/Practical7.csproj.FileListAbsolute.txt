@@ -1,0 +1,14 @@
+C:\c# Programs\Practical7\obj\Debug\net10.0\Practical7.GeneratedMSBuildEditorConfig.editorconfig
+C:\c# Programs\Practical7\obj\Debug\net10.0\Practical7.AssemblyInfoInputs.cache
+C:\c# Programs\Practical7\obj\Debug\net10.0\Practical7.AssemblyInfo.cs
+C:\c# Programs\Practical7\obj\Debug\net10.0\Practical7.csproj.CoreCompileInputs.cache
+C:\c# Programs\Practical7\bin\Debug\net10.0\Practical7.exe
+C:\c# Programs\Practical7\bin\Debug\net10.0\Practical7.deps.json
+C:\c# Programs\Practical7\bin\Debug\net10.0\Practical7.runtimeconfig.json
+C:\c# Programs\Practical7\bin\Debug\net10.0\Practical7.dll
+C:\c# Programs\Practical7\bin\Debug\net10.0\Practical7.pdb
+C:\c# Programs\Practical7\obj\Debug\net10.0\Practical7.dll
+C:\c# Programs\Practical7\obj\Debug\net10.0\refint\Practical7.dll
+C:\c# Programs\Practical7\obj\Debug\net10.0\Practical7.pdb
+C:\c# Programs\Practical7\obj\Debug\net10.0\Practical7.genruntimeconfig.cache
+C:\c# Programs\Practical7\obj\Debug\net10.0\ref\Practical7.dll

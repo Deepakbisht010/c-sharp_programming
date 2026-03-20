@@ -1,0 +1,14 @@
+C:\c# Programs\Practical6\obj\Debug\net10.0\Practical6.GeneratedMSBuildEditorConfig.editorconfig
+C:\c# Programs\Practical6\obj\Debug\net10.0\Practical6.AssemblyInfoInputs.cache
+C:\c# Programs\Practical6\obj\Debug\net10.0\Practical6.AssemblyInfo.cs
+C:\c# Programs\Practical6\obj\Debug\net10.0\Practical6.csproj.CoreCompileInputs.cache
+C:\c# Programs\Practical6\bin\Debug\net10.0\Practical6.exe
+C:\c# Programs\Practical6\bin\Debug\net10.0\Practical6.deps.json
+C:\c# Programs\Practical6\bin\Debug\net10.0\Practical6.runtimeconfig.json
+C:\c# Programs\Practical6\bin\Debug\net10.0\Practical6.dll
+C:\c# Programs\Practical6\bin\Debug\net10.0\Practical6.pdb
+C:\c# Programs\Practical6\obj\Debug\net10.0\Practical6.dll
+C:\c# Programs\Practical6\obj\Debug\net10.0\refint\Practical6.dll
+C:\c# Programs\Practical6\obj\Debug\net10.0\Practical6.pdb
+C:\c# Programs\Practical6\obj\Debug\net10.0\Practical6.genruntimeconfig.cache
+C:\c# Programs\Practical6\obj\Debug\net10.0\ref\Practical6.dll
